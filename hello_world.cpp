@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```here we can see the code without using namespace std;```
 Здесь мы используем ядро cтандартной библиотеки std;
 int main() {
