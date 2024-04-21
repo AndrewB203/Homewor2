@@ -1,3 +1,4 @@
+```here we can see the code without using namespace std;```
 
 int main() {
     string name;
